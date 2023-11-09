@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepExperiment", "KeepExperiment.csproj", "{E5917C8E-5D81-40FC-B009-0B6655B6922E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5917C8E-5D81-40FC-B009-0B6655B6922E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5917C8E-5D81-40FC-B009-0B6655B6922E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5917C8E-5D81-40FC-B009-0B6655B6922E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5917C8E-5D81-40FC-B009-0B6655B6922E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1B48BE-991D-465C-BB63-BD396AF6462A}
+	EndGlobalSection
+EndGlobal
